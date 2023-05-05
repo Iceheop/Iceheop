@@ -7,6 +7,7 @@ soy David Lorenzo, un desarrollador web apasionado por crear soluciones innovado
     <img src="https://cdn-icons-png.flaticon.com/512/919/919830.png" alt="img.error" width="35em" height="35em" style="max-width: 100%;">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="img.error" width="35em" height="35em" style="max-width: 100%;">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="img.error" width="35em" height="35em" style="max-width: 100%;">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" alt="img.error" width="35em" height="35em" style="max-width: 100%;">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="img.error" width="35em" height="35em" style="max-width: 100%;">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="img.error" width="35em" height="35em" style="max-width: 100%;">
 </p>
