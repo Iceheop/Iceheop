@@ -4,12 +4,8 @@ soy David Lorenzo, un desarrollador web apasionado por crear soluciones innovado
 ### Avilidades
 
 <p align="left" dir="auto">
-   <div style="display:inline-block;">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="img.error" width="35em" height="35em" style="max-width: 100%;">
-  </div>
-  <div style="display:inline-block;">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="img.error" width="35em" height="35em" style="max-width: 100%;">
-  </div>
 </p>
 <p align="left" dir="auto">
    <a href="https://www.python.org/" rel="nofollow">
