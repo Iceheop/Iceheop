@@ -3,19 +3,11 @@ soy David Lorenzo, un desarrollador web apasionado por crear soluciones innovado
 
 ### Avilidades
 
-<style>
-  .d-inline {
-  display:inline-block;
-  width: 200px;
-  text-align: center;
-}
-</style>
-
 <div id="contenedor">
-  <div class="d-inline">
+  <div style"display:inline-block;">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="img.error" width="60em" height="60em">
   </div>
-  <div class="d-inline">
+  <div style"display:inline-block;">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="img.error" width="60em" height="60em">
   </div>
 </div>
