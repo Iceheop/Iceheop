@@ -34,4 +34,7 @@ Soy David Lorenzo, un desarrollador web Full Stack apasionado por crear solucion
     <a href="https://nodejs.org/en" style="text-decoration: none;">
         <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="Node.js" width="35em" height="35em" style="max-width: 100%; ">
     </a>
+    <a href="#" style="text-decoration: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb" width="35em" height="35em" style="max-width: 100%; ">
+    </a>
 </p>
