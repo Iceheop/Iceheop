@@ -23,7 +23,7 @@ Soy David Lorenzo, un desarrollador web Full Stack apasionado por crear solucion
     </a>
 </p>
 
-### Back-End PHP
+### Back-End Javascript
 <p align="left" dir="auto">
     <a href="#" style="text-decoration: none;">
         <img src="https://svgl.vercel.app/library/javascript.svg" alt="Javascript" width="35em" height="35em" style="max-width: 100%; text-decoration: none;">
