@@ -6,10 +6,10 @@ Soy David Lorenzo, un desarrollador web Full Stack apasionado por crear solucion
 
 <p align="left" dir="auto">
     <a href="https://nodejs.org/en" style="text-decoration: none;">
-        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="Node.js" width="35em" height="35em" style="max-width: 100%;">
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="Node.js" width="35em" height="35em" style="max-width: 100%; ">
     </a>
     <a href="https://vuejs.org/" style="text-decoration: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="Tecnología desconocida" width="35em" height="35em" style="max-width: 100%;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="Tecnología desconocida" width="35em" height="35em" style="max-width: 100%; height: 100%;">
     </a>
     <a href="#" style="text-decoration: none;">
         <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="Tecnología desconocida" width="35em" height="35em" style="max-width: 100%;">
