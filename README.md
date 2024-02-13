@@ -29,12 +29,13 @@ Soy David Lorenzo, un desarrollador web Full Stack apasionado por crear solucion
         <img src="https://svgl.vercel.app/library/javascript.svg" alt="Javascript" width="35em" height="35em" style="max-width: 100%; text-decoration: none;">
     </a>
     <a href="#" style="text-decoration: none;">
-        <img src="https://svgl.vercel.app/library/nodejs.sv" alt="Nodejs" width="35em" height="35em" style="max-width: 100%;">
+        <img src="https://svgl.vercel.app/library/typescript.svg" alt="Typescript" width="35em" height="35em" style="max-width: 100%; ">
+    </a>
+    <a href="#" style="text-decoration: none;">
+        <img src="https://svgl.vercel.app/library/nodejs.svg" alt="Nodejs" width="35em" height="35em" style="max-width: 100%;">
     </a>
     <a href="https://nodejs.org/en" style="text-decoration: none;">
         <img src="https://svgl.vercel.app/library/expressjs_dark.svg" alt="Espressjs" width="35em" height="35em" style="max-width: 100%; ">
     </a>
-    <a href="#" style="text-decoration: none;">
-        <img src="https://svgl.vercel.app/library/typescript.svg" alt="Typescript" width="35em" height="35em" style="max-width: 100%; ">
-    </a>
+
 </p>
