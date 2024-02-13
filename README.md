@@ -1,9 +1,9 @@
 
-### Hola!
+## Perfil
 Soy David Lorenzo, un desarrollador web Full Stack apasionado por crear soluciones innovadoras y atractivas. Me gusta aprender nuevas tecnologías y compartir mis conocimientos con la comunidad. Puedes ver algunos de mis proyectos en este repositorio o contactarme a través de mis redes sociales. ¡Gracias por visitar mi perfil!
 
-### Habilidades
-## Front-End React JS
+## Habilidades
+### Front-End React JS
 
 <p align="left" dir="auto">
     <a href="#" style="text-decoration: none;">
