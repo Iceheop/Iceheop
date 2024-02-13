@@ -16,7 +16,7 @@ Soy David Lorenzo, un desarrollador web Full Stack apasionado por crear solucion
         <img src="https://svgl.vercel.app/library/javascript.svg" alt="js" width="35em" height="35em" style="max-width: 100%; text-decoration: none;">
     </a>
     <a href="#" style="text-decoration: none;">
-        <img src="https://svgl.vercel.app/library/typescript.svg" alt="Typescript" width="35em" height="35em" style="max-width: 100%;">
+        <img src="https://svgl.vercel.app/library/typescript.svg" alt="Typescript" width="35em" height="35em" style="max-width: 100%; text-decoration: none;">
     </a>
     <a href="#" style="text-decoration: none;">
         <img src="https://svgl.vercel.app/library/react.svg" alt="react" width="35em" height="35em" style="max-width: 100%; height: 100%; text-decoration: none;">
@@ -29,9 +29,9 @@ Soy David Lorenzo, un desarrollador web Full Stack apasionado por crear solucion
         <img src="https://svgl.vercel.app/library/javascript.svg" alt="Javascript" width="35em" height="35em" style="max-width: 100%; text-decoration: none;">
     </a>
     <a href="#" style="text-decoration: none;">
-        <img src="https://svgl.vercel.app/library/typescript.svg" alt="Typescript" width="35em" height="35em" style="max-width: 100%; ">
+        <img src="https://svgl.vercel.app/library/typescript.svg" alt="Typescript" width="35em" height="35em" style="max-width: 100%; text-decoration: none;">
     </a>
     <a href="#" style="text-decoration: none;">
-        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="Nodejs" width="35em" height="35em" style="max-width: 100%;">
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="Nodejs" width="35em" height="35em" style="max-width: 100%; text-decoration: none;">
     </a>
 </p>
