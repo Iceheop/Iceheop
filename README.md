@@ -23,10 +23,10 @@ Soy David Lorenzo, un desarrollador web Full Stack apasionado por crear solucion
     </a>
 </p>
 
-### Back-End Javascript
+### Back-End PHP
 <p align="left" dir="auto">
     <a href="#" style="text-decoration: none;">
-        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="js" width="35em" height="35em" style="max-width: 100%; text-decoration: none;">
+        <img src="https://svgl.vercel.app/library/php_dark.svg" alt="PHP" width="35em" height="35em" style="max-width: 100%; text-decoration: none;">
     </a>
     <a href="#" style="text-decoration: none;">
         <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="Typescript" width="35em" height="35em" style="max-width: 100%;">
