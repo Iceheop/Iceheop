@@ -36,18 +36,6 @@ Soy David Lorenzo, un desarrollador web Full Stack apasionado por crear solucion
     </a>
 </p>
 
-### Base de datos
-<p align="left" dir="auto">
-    <a href="#" style="text-decoration: none;">
-        <img src="https://svgl.vercel.app/library/javascript.svg" alt="Javascript" width="35em" height="35em" style="max-width: 100%; text-decoration: none;">
-    </a>
-    <a href="#" style="text-decoration: none;">
-        <img src="https://svgl.vercel.app/library/typescript.svg" alt="Typescript" width="35em" height="35em" style="max-width: 100%; text-decoration: none;">
-    </a>
-    <a href="#" style="text-decoration: none;">
-        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="Nodejs" width="35em" height="35em" style="max-width: 100%; text-decoration: none;">
-    </a>
-</p>
 
 ### Herramientas
 <p align="left" dir="auto">
