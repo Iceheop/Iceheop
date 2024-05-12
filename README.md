@@ -6,6 +6,8 @@ I am a freelance frontend developer and web designer.
 - HTML
 - CSS
 - JavaScript
+- PHP
+- Mysqli
 - Astro
 - Bootstrap
 - Figma
