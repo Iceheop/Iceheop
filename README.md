@@ -2,7 +2,16 @@
 I am a freelance frontend developer and web designer.
 **+2 years of experience.** Passionate about designing and creating elegant and intuitive user interfaces. **ready to add value to your project.**
 
-🪛 **My go to tech-stack:**
+**My go to tech-stack:**
+- HTML
+- CSS
+- JavaScript
+- Astro
+- Bootstrap
+- Figma
+- Ilustrator
+  
+<!--
 <section style="display: flex;">
   <img src="./assets/html5.svg" alt="Html" style="width: 35px; height: 35px;" />
   <img src="./assets/css.svg" alt="Css" style="width: 35px; height: 35px;" />
@@ -12,5 +21,7 @@ I am a freelance frontend developer and web designer.
   <img src="./assets/figma.svg" alt="Figma" style="width: 35px; height: 35px;" />
   <img src="./assets/illustrator.svg" alt="Illustrator" style="width: 35px; height: 35px;" />
 <section>
+-->
 
 I’m currently learning **TypeSacript.**
+
