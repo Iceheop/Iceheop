@@ -11,6 +11,6 @@ I am a freelance frontend developer and web designer.
 - Figma
 - Ilustrator
 
-<img src="./assets/html5.svg" alt="Html" style="width: 20px; height: 20px;" />
+<img src="./assets/html5.svg" alt="Html" style="width: 50px; height: 50px;" />
 
 I’m currently learning **TypeSacript.**
