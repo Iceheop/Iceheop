@@ -6,11 +6,11 @@ I am a freelance frontend developer and web designer.
 - HTML 
 - CSS
 - JavaScript
-- PHP
-- Mysqli
 - Astro
 - Bootstrap
 - Figma
 - Ilustrator
+
+<img src="./assets/html5.svg" alt="Html" />
 
 I’m currently learning **TypeSacript.**
