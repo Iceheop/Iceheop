@@ -12,5 +12,11 @@ I am a freelance frontend developer and web designer.
 - Ilustrator
 
 <img src="./assets/html5.svg" alt="Html" style="width: 35px; height: 35px;" />
+<img src="./assets/css.svg" alt="Css" style="width: 35px; height: 35px;" />
+<img src="./assets/javascript.svg" alt="Javascript" style="width: 35px; height: 35px;" />
+<img src="./assets/Astro_dark.svg" alt="Astro" style="width: 35px; height: 35px;" />
+<img src="./assets/bootstrap.svg" alt="Bootstrap" style="width: 35px; height: 35px;" />
+<img src="./assets/figma.svg" alt="Figma" style="width: 35px; height: 35px;" />
+<img src="./assets/ilustrator.svg" alt="Ilustrator" style="width: 35px; height: 35px;" />
 
 I’m currently learning **TypeSacript.**
