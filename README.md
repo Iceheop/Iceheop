@@ -1,5 +1,5 @@
 ## Hey there, I'm David Lorenzo 👋
-### I am a freelance frontend developer and web designer.
+I am a freelance frontend developer and web designer.
 **+2 years of experience.** Passionate about designing and creating elegant and intuitive user interfaces. **ready to add value to your project.**
 
 **My go to tech-stack:**
