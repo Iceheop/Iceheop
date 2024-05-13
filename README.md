@@ -23,6 +23,15 @@ I am a freelance frontend developer and web designer.
       - Illustrator
   </div>
 </div>
+
+| Frontend | Backend | Tools |
+| --- | --- | --- |
+| HTML | PHP | Figma |
+| CSS | Mysqli | Illustrator |
+| JavaScript |  |  |
+| Astro |  |  |
+| Bootstrap |  |  |
+
   
 <!--
 <section style="display: flex;">
