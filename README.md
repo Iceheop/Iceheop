@@ -23,5 +23,5 @@
 <section>
 -->
 
-🌱 I’m currently learning **TypeSacript.**
+I’m currently learning **TypeSacript.**
 
