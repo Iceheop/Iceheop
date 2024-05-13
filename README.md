@@ -23,5 +23,5 @@ I am a freelance frontend developer and web designer.
 <section>
 -->
 
-I’m currently learning **TypeSacript.**
+I’m currently learning **TypeScript.**
 
