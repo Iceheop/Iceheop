@@ -18,7 +18,7 @@ I am a freelance frontend developer and web designer.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/astro-original.svg" height="30" alt="astro logo"  />
-</div>
+</div><br>
    
 I’m currently learning **TypeScript.**
 
