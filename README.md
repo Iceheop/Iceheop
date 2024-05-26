@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="30" alt="figma logo"  />
   <img width="8" />
   <img src="https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=black&style=for-the-badge" height="30" alt="astro logo"  />
-</div>
+</div><br>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Iceheop&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=es&hide_border=false&order=1" height="150" alt="stats graph"  />
