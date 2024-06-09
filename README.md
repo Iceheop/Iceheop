@@ -11,7 +11,7 @@ I am a freelance frontend developer and web designer. +2 years of experience. Pa
 - PHP
 - MySQL
 - Figma
-- 
+
 <!--
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
