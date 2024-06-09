@@ -3,14 +3,14 @@
 <p align="left">I am a freelance frontend developer and web designer. +2 years of experience. Passionate about designing and creating elegant and intuitive user interfaces. ready to add value to your project.</p>
 
 <h3 align="left">My go to tech-stack:</h3>
-  -HTML
-  -CSS
-  -JavaScript
-  -Bootstrap
-  -Astro
-  -PHP
-  -MySQL
-  -Figma
+  - HTML
+  - CSS
+  - JavaScript
+  - Bootstrap
+  - Astro
+  - PHP
+  - MySQL
+  - Figma
 <!--
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
