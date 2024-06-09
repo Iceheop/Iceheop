@@ -1,8 +1,8 @@
-<h2 align="left">Hey there, I'm David</h2>
+# Hey there, I'm David
 
-<p align="left">I am a freelance frontend developer and web designer. +2 years of experience. Passionate about designing and creating elegant and intuitive user interfaces. ready to add value to your project.</p>
+I am a freelance frontend developer and web designer. +2 years of experience. Passionate about designing and creating elegant and intuitive user interfaces. ready to add value to your project.
 
-<h3 align="left">My go to tech-stack:</h3>
+## **My go to tech-stack:**
 - HTML
 - CSS
 - JavaScript
@@ -11,6 +11,7 @@
 - PHP
 - MySQL
 - Figma
+- 
 <!--
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
