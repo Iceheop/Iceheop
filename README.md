@@ -2,7 +2,7 @@
 
 I am a freelance frontend developer and web designer. +2 years of experience. Passionate about designing and creating elegant and intuitive user interfaces. ready to add value to your project.
 
-### **Here are some ideas to get you started:**
+### **Current information about me:**
 
 - 🌱 I’m currently learning Typescripts
 - 💬 Ask me about ...
