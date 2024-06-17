@@ -5,8 +5,7 @@ I am a freelance frontend developer and web designer. +2 years of experience. Pa
 ### **Current information about me:**
 
 - 🌱 I’m currently learning Typescripts
-- 📫 How to reach me: Iceheheop@outlook.com
-- 😄 Pronouns: He / Him
+- 📫 Contact me: Iceheheop@outlook.com 
 
 ### **My go to tech-stack:**
 
