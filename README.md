@@ -12,7 +12,7 @@ I am a freelance frontend developer and web designer. +2 years of experience. Pa
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap, Astro
 - **Backend:** PHP
 - **Database:** MySQL
-- **Design:** Figma, Illustrator, Maya
+- **Design:** Figma, Illustrator
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Iceheop&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=es&hide_border=false&order=1" height="150" alt="stats graph"  />
