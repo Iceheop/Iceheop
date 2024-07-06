@@ -9,7 +9,7 @@ I am a freelance frontend developer and web designer. +2 years of experience. Pa
 
 ### **My go to tech-stack:**
 
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap, Astro
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap, Astro, Vue
 - **Backend:** PHP
 - **Database:** MySQL
 - **Design:** Figma, Illustrator
