@@ -2,12 +2,12 @@
 
 I am a freelance frontend developer and web designer. +2 years of experience. Passionate about designing and creating elegant and intuitive user interfaces. ready to add value to your project.
 
-### **Current information about me:**
+## **Current information about me:**
 
 - 🌱 I’m currently learning Typescripts
 - 📫 Contact me: Iceheheop@outlook.com 
 
-### **My go to tech-stack:**
+## **My go to tech-stack:**
 
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap, Astro, Vue
 - **Backend:** PHP
