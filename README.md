@@ -1,4 +1,4 @@
-# Hey there, I'm David
+<!-- # Hey there, I'm David
 
 I am a freelance frontend developer and web designer. +2 years of experience. Passionate about designing and creating elegant and intuitive user interfaces. ready to add value to your project.
 
@@ -6,7 +6,7 @@ I am a freelance frontend developer and web designer. +2 years of experience. Pa
 
 - 🌱 I’m currently learning Typescripts
 - 📫 Contact me: Iceheheop@outlook.com 
-
+-->
 ## **My go to tech-stack:**
 
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap, Astro, Vue
