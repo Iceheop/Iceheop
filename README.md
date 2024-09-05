@@ -5,7 +5,7 @@ I am a freelance frontend developer and web designer. +2 years of experience. Pa
 
 ## **Current information about me:**
 - 🌱 I’m currently learning Typescripts
-- 📫 Contact me: Iceheheop@outlook.com
+- 📫 Contact me: dlorenzodev@outlook.com
 
 ## **My go to tech-stack:**
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap, Astro, Vue
