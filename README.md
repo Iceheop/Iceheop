@@ -1,10 +1,5 @@
-<!-- # Hey there, I'm David
-
-I am a freelance frontend developer and web designer. +2 years of experience. Passionate about designing and creating elegant and intuitive user interfaces. ready to add value to your project.
--->
-
 ## **Current information about me:**
-Hey there, I'm David a freelance frontend developer and web designer. +2 years of experience. Passionate about designing and creating elegant and intuitive user interfaces. ready to add value to your project.
+Hey there, I'm David a **Front-end developer** based in Dominican Republic. **+1 years of experience in Front-end development.** Passionate about designing and creating elegant and intuitive user interfaces that enhance the user experience.
 - 🌱 I’m currently learning Typescripts
 - 📫 Contact me: dlorenzodev@outlook.com
 ### **Tech-stack:**
