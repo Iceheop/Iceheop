@@ -4,14 +4,14 @@ I am a freelance frontend developer and web designer. +2 years of experience. Pa
 -->
 
 ## **Current information about me:**
+Hey there, I'm David a freelance frontend developer and web designer. +2 years of experience. Passionate about designing and creating elegant and intuitive user interfaces. ready to add value to your project.
 - 🌱 I’m currently learning Typescripts
 - 📫 Contact me: dlorenzodev@outlook.com
-
-## **My go to tech-stack:**
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap, Astro, Vue
+### **Tech-stack:**
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap, Astro
 - **Backend:** PHP
 - **Database:** MySQL
-- **Design:** Figma, Illustrator
+- **Design:** Figma
 
 <!--
 <div align="left">
