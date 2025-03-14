@@ -2,7 +2,7 @@
 Hola, soy David Lorenzo, un **diseñador de UI/UX y desarrollador web** con sede en República Dominicana. **+1 año de experiencia en desarrollo web.** Apasionado por diseñar y crear interfaces de usuario elegantes e intuitivas que mejoren la experiencia del usuario.
 - 🌱 Actualmente estoy aprendiendo Typescripts
 - 📫 Contáctame: dlorenzodev@outlook.com
-- 💼 Portafolio: https://dlorenzo.net
+- 💼 Portafolio: [https://dlorenzo.net](https://dlorenzo.net)
 ### **Tecnología:**
 - **Interfaz de usuario:** HTML, CSS, JavaScript, Bootstrap, Astro
 - **Backend:** PHP
