@@ -7,4 +7,4 @@ Hola, soy Ronald David Santana Lorenzo, un **diseñador de UI/UX y desarrollador
 - **Interfaz de usuario:** HTML, CSS, JavaScript, Bootstrap, Astro
 - **Backend:** PHP
 - **Base de datos:** MySQL
-- **Diseño:** Figma
+- **Diseño:** Figma, Photoshop, Ilustrator.
